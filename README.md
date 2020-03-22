@@ -48,5 +48,5 @@ I added language hints because due to me being in Germany, most of the things ar
 
 
 ## general useful information:
-1. [corona virus | best explanation ieces online](https://digitalpresent.tagesspiegel.de/die-besten-erklaerstuecke-zum-coronavirus-weltweit)     **Tagesspiegel Newspaper  | german website**
+1. [corona virus | best explanation pieces online](https://digitalpresent.tagesspiegel.de/die-besten-erklaerstuecke-zum-coronavirus-weltweit)     **Tagesspiegel Newspaper  | german website**
 2. [neighbourhood assistance done right](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)     **Zeit-Magazin  | german website**
