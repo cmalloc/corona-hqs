@@ -38,6 +38,10 @@ I added language hints because due to me being in Germany, most of the things ar
 5. [Sendung mit der Maus | german morning program between 9.00 and 12.00](https://www1.wdr.de/unternehmen/der-wdr/unternehmen/lernen-mit-neuen-wdr-angeboten-100.html)     **german radio broadcasting announcement**
 
 
+## move your body:
+1. [online yoga classes provided by one of the local yoga studios in Leverkusen](https://www.yogaya.de/yogaya-klassen-im-live-streaming/)     **yogaya.de Leverkusen | german website**
+2. [online workout for your livingroom](https://www.rbb24.de/sport/beitrag/2020/03/der-rbb-macht-fitness-sport-fuer-zuhause-workout-kinder-familie.html)     **RBB fitness@home | german website**
+
 
 ## taking part in useful projects:
 1. [share your computing power](https://1e9.community/t/euer-computer-langweilt-sich-dann-lasst-ihn-bei-der-erforschung-des-coronavirus-helfen/4010)     **folding@home project | german website**
