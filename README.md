@@ -29,9 +29,6 @@ I added language hints because due to me being in Germany, most of the things ar
 8. [Anton App | online tutoring | german classes 1 -10](https://anton.app/de/)     **german**
 
 
-
-
-
 ## keeping your kids busy:
 1. [map colouring textbook](https://blog.mapbox.com/exploring-from-home-a-map-coloring-book-37ff42ac4953)     **english**
 2. [ALBA Berlin | daily fitness session](https://www.albaberlin.de/news/details/reaktion-auf-coronavirus-alba-berlin-startet-taegliche-digitale-sportstunde-fuer-kinder-und-jugendlic/)     **german**
@@ -47,6 +44,10 @@ I added language hints because due to me being in Germany, most of the things ar
 
 ## taking part in useful projects:
 1. [share your computing power](https://1e9.community/t/euer-computer-langweilt-sich-dann-lasst-ihn-bei-der-erforschung-des-coronavirus-helfen/4010)     **folding@home project | german website**
+
+
+## online culture:
+1. [dringeblieben.de | cologne culture stream](https://dringeblieben.de/)     **german website**
 
 
 ## general useful information:
