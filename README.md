@@ -15,7 +15,7 @@ I added language hints because due to me being in Germany, most of the things ar
 5. [open.hpi.de](https://open.hpi.de/)     **educational platform Hasso-Plattner-Institute | german**
 6. [Informatik Biber brain taesers](https://bwinf.de/biber/archiv/aufgabensammlung/)     **Bundesweite Informatikwettbewerbe | german**
 7. [Jugendwettbewerb Informatik brain taesers](https://jwinf.de/contest/open/)     **Jugendwettbewerb Informatik | german | beginner level**
-8. [Bundeswettbewerb Informatik brain taesers](https://bwinf.de/bundeswettbewerb/aufgabenarchiv/)     **Jugendwettbewerb Informatik | german | beginner level**
+8. [Bundeswettbewerb Informatik brain taesers](https://bwinf.de/bundeswettbewerb/aufgabenarchiv/)     **Bundeswettbewerb Informatik | german | beginner level**
 
 
 ## general education:
