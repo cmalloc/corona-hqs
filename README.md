@@ -13,9 +13,10 @@ I added language hints because due to me being in Germany, most of the things ar
 3. [Freecodecamp Coronavrirus Acadamy, learn to code from home](https://www.freecodecamp.org/news/coronavirus-academy/)     **Freecodecamp Community | english**
 4. [Freecodecamp news: free Ivy League courses](https://www.freecodecamp.org/news/ivy-league-free-online-courses-a0d7ae675869/)     **Freecodecamp Community News | english**
 5. [open.hpi.de](https://open.hpi.de/)     **educational platform Hasso-Plattner-Institute | german**
-6. [Informatik Biber brain taesers](https://bwinf.de/biber/archiv/aufgabensammlung/)     **Bundesweite Informatikwettbewerbe | german**
-7. [Jugendwettbewerb Informatik brain taesers](https://jwinf.de/contest/open/)     **Jugendwettbewerb Informatik | german | beginner level**
-8. [Bundeswettbewerb Informatik brain taesers](https://bwinf.de/bundeswettbewerb/aufgabenarchiv/)     **Bundeswettbewerb Informatik | german | beginner level**
+6. [Informatik Biber brain teasers](https://bwinf.de/biber/archiv/aufgabensammlung/)     **Bundesweite Informatikwettbewerbe | german**
+7. [Jugendwettbewerb Informatik brain teasers](https://jwinf.de/contest/open/)     **Jugendwettbewerb Informatik | german | beginner level**
+8. [Bundeswettbewerb Informatik brain teasers](https://bwinf.de/bundeswettbewerb/aufgabenarchiv/)     **Bundeswettbewerb Informatik | german | beginner level**
+9. [Ansible open source automation](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube)     **english | youtube series**
 
 
 ## general education:
