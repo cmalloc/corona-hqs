@@ -48,8 +48,14 @@ I added language hints because due to me being in Germany, most of the things ar
 
 ## online culture:
 1. [dringeblieben.de | cologne culture stream](https://dringeblieben.de/)     **german website**
+2. [**20.03. only** #wirbleibenzuhausefestival](https://www.instagram.com/explore/tags/wirbleibenzuhausefestival/)     **Instagram | german artists**
+3. [Guggenheim Museum, New York | virtual exhibitions](https://artsandculture.google.com/partner/solomon-r-guggenheim-museum) **english**
+4. [United we stream | Berlin clubbing live stream](https://www.unitedwestream.berlin/#info) **livestream | german website**
+
+
 
 
 ## general useful information:
-1. [corona virus | best explanation pieces online](https://digitalpresent.tagesspiegel.de/die-besten-erklaerstuecke-zum-coronavirus-weltweit)     **Tagesspiegel Newspaper  | german website**
-2. [neighbourhood assistance done right](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)     **Zeit-Magazin  | german website**
+1. [corona virus | near realtime information and figures](https://interaktiv.tagesspiegel.de/lab/sars-cov-2-das-virus-in-echtzeit/)     **Tagesspiegel Newspaper  | german website**
+2. [corona virus | best explanation pieces online](https://digitalpresent.tagesspiegel.de/die-besten-erklaerstuecke-zum-coronavirus-weltweit)     **Tagesspiegel Newspaper  | german website**
+3. [neighbourhood assistance done right](https://www.zeit.de/zeit-magazin/leben/2020-03/nachbarschaftshilfe-coronavirus-infektionskette-solidaritaet-netzwerkforschung)     **Zeit-Magazin  | german website**
