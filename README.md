@@ -1,5 +1,5 @@
 # corona-hqs
-**Corona Home Quarantine Suggestions - a collection of things to do and know, when you spend your time at home**
+**corona home quarantine Suggestions - a collection of things to do and know, when you spend your time at home**
 
 There is a lot of information going around social media related to the corona crisis and people staying at home. Many people have to deal with kids, having a hard time keeping them busy and happy. Over the past few days I have been sharing things I have seen on social media with my friends and family. Today I had the idea to start putting a collection on github, so it is easier for people to share accross social media channels.
 
@@ -17,6 +17,7 @@ I added language hints because due to me being in Germany, most of the things ar
 7. [Jugendwettbewerb Informatik brain teasers](https://jwinf.de/contest/open/)     **Jugendwettbewerb Informatik | german | beginner level**
 8. [Bundeswettbewerb Informatik brain teasers](https://bwinf.de/bundeswettbewerb/aufgabenarchiv/)     **Bundeswettbewerb Informatik | german | beginner level**
 9. [Ansible open source automation](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube)     **english | youtube series**
+10. [Wordpress handbook by perun.net](https://www.perun.net/2020/03/16/wordpress-handbuch-verschenken-schulungsunterlagen/)     **german**
 
 
 ## general education:
