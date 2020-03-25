@@ -37,6 +37,7 @@ I added language hints because due to me being in Germany, most of the things ar
 3. [astronomy online](http://www.haus-der-astronomie.de/faszi-astro-online)     **german**
 4. [Monterey Bay aquarium animal webcams](https://www.montereybayaquarium.org/animals/live-cams)     **english website**
 5. [Sendung mit der Maus | german morning program between 9.00 and 12.00](https://www1.wdr.de/unternehmen/der-wdr/unternehmen/lernen-mit-neuen-wdr-angeboten-100.html)     **german radio broadcasting announcement**
+6. [Projekt Brause Rakete | escape room tutoring game for kids](https://www.mebis.bayern.de/infoportal/empfehlung/projekt-brause-rakete-die-flucht-vor-dem-corona-virus/)     **german**
 
 
 ## move your body:
