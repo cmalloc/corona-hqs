@@ -18,6 +18,7 @@ I added language hints because due to me being in Germany, most of the things ar
 8. [Bundeswettbewerb Informatik brain teasers](https://bwinf.de/bundeswettbewerb/aufgabenarchiv/)     **Bundeswettbewerb Informatik | german | beginner level**
 9. [Ansible open source automation](https://www.jeffgeerling.com/blog/2020/ansible-101-jeff-geerling-new-series-on-youtube)     **english | Youtube series**
 10. [Wordpress handbook by perun.net](https://www.perun.net/2020/03/16/wordpress-handbuch-verschenken-schulungsunterlagen/)     **german**
+11. [Calliope Mini | build your own weather station for kids](https://www.code-your-life.org/Praxis/Calliope_mini/1300_Calliope.htm)     **german**
 
 
 ## general education:
