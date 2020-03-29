@@ -45,6 +45,10 @@ I added language hints because due to me being in Germany, most of the things ar
 2. [online workout for your livingroom](https://www.rbb24.de/sport/beitrag/2020/03/der-rbb-macht-fitness-sport-fuer-zuhause-workout-kinder-familie.html)     **RBB fitness@home | german website**
 
 
+## eating @ home:
+1. [sipgate GmbH kitchen personnel providing home-office workers with daily recipes and videos how to prepare their meals](https://www.sipgatekitchen.de/)     **german website**
+
+
 ## taking part in useful projects:
 1. [share your computing power](https://1e9.community/t/euer-computer-langweilt-sich-dann-lasst-ihn-bei-der-erforschung-des-coronavirus-helfen/4010)     **folding@home project | german website**
 
